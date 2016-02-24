@@ -15,3 +15,6 @@ the bonus is a little bit trivial to get -.- (score: 100)
 #### [Solution](https://github.com/Axolot1/shiny-waffle/tree/master/src/weekthree)
 no bonus (socre: 100)
 
+### Week 3 [8 Puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
+#### [Solution](https://github.com/Axolot1/shiny-waffle/tree/master/src/weekfour)
+no bonus (socre: 100)
