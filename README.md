@@ -1,4 +1,4 @@
-# studious-chainsaw
+# shiny-waffle
 Programming Assignments of 《Algorithms》 on Coursera
 
 ----
