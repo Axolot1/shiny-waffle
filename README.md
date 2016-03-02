@@ -18,3 +18,7 @@ no bonus (socre: 100)
 ### Week 4  [8 Puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 #### [Solution](https://github.com/Axolot1/shiny-waffle/tree/master/src/weekfour)
 no bonus (socre: 100)
+
+### Week 5  [Kd-Trees](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
+#### [Solution](https://github.com/Axolot1/shiny-waffle/tree/master/src/weekfive)
+no bonus (socre: 100)
